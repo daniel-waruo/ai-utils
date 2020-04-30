@@ -113,6 +113,12 @@ venv.bak/
 # Rope project settings
 .ropeproject
 
+# Visual Studio Work Space settings 
+.vscode
+
+# PyCharm Settings Config
+.idea
+
 # mkdocs documentation
 /site
 
