@@ -1,7 +1,7 @@
 from unittest import TestCase
 
-from ..frontier import StackFrontier, QueueFrontier
-from ..node import Node
+from ai_utils.search.frontier import StackFrontier, QueueFrontier
+from ai_utils.search.node import Node
 
 
 class StackFrontierTestCase(TestCase):
